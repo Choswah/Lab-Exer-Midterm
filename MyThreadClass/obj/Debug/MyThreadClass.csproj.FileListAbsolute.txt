@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\obj\Debug\MyThreadClass.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\obj\Debug\MyThreadClass.Form1.resources
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\obj\Debug\MyThreadClass.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\obj\Debug\MyThreadClass.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\bin\Debug\MyThreadClass.exe.config
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\bin\Debug\MyThreadClass.exe
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\bin\Debug\MyThreadClass.pdb
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\obj\Debug\MyThreadClass.exe
+C:\Users\ComputerLab4PC1\source\repos\MyThreadClass\obj\Debug\MyThreadClass.pdb
